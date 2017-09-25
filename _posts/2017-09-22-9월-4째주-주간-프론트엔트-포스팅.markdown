@@ -6,7 +6,7 @@ categories: headlines
 author: "by jayjnu"
 ---
 
-1. [Morern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+1. [Mordern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - "ES6 컨닝페이퍼"
 - 익숙하지 않으면 난처한 ES6및 자바스크립트 문법 및 속성에 대해 잘 정리해둔 Repository
 
@@ -23,7 +23,7 @@ author: "by jayjnu"
 
 4. [맥북프로 터치바에 웹팩 빌드 프로그레스 보이게 하는 법](https://swizec.com/blog/livecoding-recap-47-webpack-build-progress-indicator-mac-touchbar/swizec/7808)
 
-5. [드디어 사용가능하다! Promose.prototype.finally()](https://hospodarets.com/promise.prototype.finally)
+5. [드디어 사용가능하다! Promise.prototype.finally()](https://hospodarets.com/promise.prototype.finally)
 - Promise의 등장으로 Callback Hell에서 탈출했지만 success, fail에 관계없이 실행될 콜백(e.g. jQuery.deferred.always())이 없어 불편함이 있었다.
 - ajax콜 전에 로딩아이콘을 보여주고 ajax콜이 끝나면 결과와 관계없이 로딩아이콘을 사라지게 하는 함수를 만들어보자
 ```javascript
